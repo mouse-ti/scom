@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+=======
 # Object files
 *.o
 
@@ -15,3 +29,4 @@
 *.exe
 *.out
 *.app
+>>>>>>> 5dbd76fd43dd1b2d93ba70ee7103baba5a79cf33
